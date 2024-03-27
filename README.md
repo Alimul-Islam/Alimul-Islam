@@ -3,6 +3,9 @@ I'm Alimul Islam
 
 Welcome to my GitHub profile! I'm a passionate and enthusiastic learner aspiring to become a skilled developer. Here, you'll find a glimpse of my journey into the world of software development.
 
+<img align="right" alt="coding" width="400" src="https://i.ibb.co/P10t33h/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f.gif" >
+
+
 ## About Me ℹ️
 
 - 🎓 Graduated with a degree in Computer Science and Engineering.
