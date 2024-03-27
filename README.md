@@ -5,10 +5,9 @@ I'm Alimul Islam
 
 Welcome to my GitHub profile! I'm a passionate and enthusiastic learner aspiring to become a skilled developer. Here, you'll find a glimpse of my journey into the world of software development.
 
-<img align="right" alt="coding" width="400" height="300" align="center" src="https://github.com/Alimul-Islam/Alimul-Islam/blob/main/animated.gif" >
 
 
-## About Me ℹ️
+### About Me ℹ️
 
 - 🎓 Graduated with a degree in Computer Science and Engineering.
 - 💻 Eager to dive into the exciting world of coding and development.
@@ -16,6 +15,7 @@ Welcome to my GitHub profile! I'm a passionate and enthusiastic learner aspiring
 - 📚 Actively learning Selenium  for Softwere test automation to build cool stuff.
 
 ## Skills 🚀
+<img align="right" alt="coding" width="400" height="300" align="center" src="https://github.com/Alimul-Islam/Alimul-Islam/blob/main/animated.gif" >
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
