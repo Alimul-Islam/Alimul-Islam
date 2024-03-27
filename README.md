@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate and enthusiastic learner aspiring
 ## Skills 🚀
 <img align="right" alt="coding" width="400" height="300" align="center" src="https://github.com/Alimul-Islam/Alimul-Islam/blob/main/animated.gif" >
 
-
+###
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -60,17 +60,16 @@ Welcome to my GitHub profile! I'm a passionate and enthusiastic learner aspiring
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
 
-###
+<br/> <br/><br/><br/><br/>
 
 <h3 align="left">🔥   My Stats :</h3>
 
-
-###
+##
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
+<br/>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
