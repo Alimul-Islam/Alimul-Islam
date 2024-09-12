@@ -15,8 +15,8 @@ Welcome to my GitHub profile! I'm a passionate and enthusiastic learner aspiring
 
 - 🎓 Graduated with a degree in Computer Science and Engineering.
 - 💻 Eager to dive into the exciting world of coding and development.
-- 🌱 Currently focusing on expanding my knowledge and honing my skills in Softwere QA Engineering.
-- 📚 Actively learning Selenium  for Softwere test automation to build cool stuff.
+- 🌱 Currently focusing on expanding my knowledge and honing my skills in Frontend Development.
+- 📚 Actively learning React and JavaScript to build interactive and responsive web applications.
 
 ## Skills 🚀
 <img align="right" alt="coding" width="400" height="300" align="center" src="https://github.com/Alimul-Islam/Alimul-Islam/blob/main/animated.gif" >
