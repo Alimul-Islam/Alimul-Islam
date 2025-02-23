@@ -15,9 +15,9 @@ Welcome to my GitHub profile! I'm a passionate and enthusiastic learner aspiring
 
 - 🎓 Graduated with a degree in Computer Science and Engineering.
 - 💻 Eager to dive into the exciting world of coding and development.
-- 🌱 Currently advancing my skills in Software Quality Assurance (SQA) and DevOps, focusing on test automation, CI/CD pipelines, and tools like Jenkins and Docker to enhance software 
-    quality and delivery efficiency.
 - 📚 Actively learning and applying QA methodologies to ensure the quality and performance of interactive and responsive web applications.
+- 🌱 Currently Advancing SQA and DevOps skills, focusing on test automation, CI/CD pipelines, Jenkins, and Docker to improve software quality and delivery.
+
 
 ## Skills 🚀
 <img align="right" alt="coding" width="400" height="300" align="center" src="https://github.com/Alimul-Islam/Alimul-Islam/blob/main/animated.gif" >
