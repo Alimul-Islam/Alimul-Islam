@@ -15,7 +15,8 @@ Welcome to my GitHub profile! I'm a passionate and enthusiastic learner aspiring
 
 - 🎓 Graduated with a degree in Computer Science and Engineering.
 - 💻 Eager to dive into the exciting world of coding and development.
-- 🌱 Currently focusing on expanding my knowledge and honing my skills in Frontend Development.
+- 🌱 Currently advancing my skills in Software Quality Assurance (SQA) and DevOps, focusing on test automation, CI/CD pipelines, and tools like Jenkins and Docker to enhance software 
+    quality and delivery efficiency.
 - 📚 Actively learning and applying QA methodologies to ensure the quality and performance of interactive and responsive web applications.
 
 ## Skills 🚀
